@@ -7,8 +7,9 @@ Group \
 Role \
 User & Password vs Access Key ID  \ & Secret Key. \
 Policy, deny vs allow, deny overrides allow in the same permission. \
-Password policy. \
-Minium permission principle
+Password policy \
+Minium permission principle \
+IAM user vs Federated user \
 
 Best Practice of IAM: \
 1 Don't use IAM to do the regular work. \

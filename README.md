@@ -1,11 +1,11 @@
 # AWS-IAM
-AWS, Identify Access Management
+AWS, Identity Access Management
 IAM link: https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html \
 Root user \
 User \
 Group \
 Role \
-User & Password vs Access Key ID  \ & Secret Key. \
+User & Password vs Access Key ID & Secret Key. \
 Policy, deny vs allow, deny overrides allow in the same permission. \
 Password policy \
 Minium permission principle \

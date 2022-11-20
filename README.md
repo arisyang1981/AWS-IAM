@@ -1,6 +1,6 @@
 # AWS-IAM
 AWS, Identify Access Management
-IAM link: https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html \ 
+IAM link: https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html \
 Root user \
 User \
 Group \
@@ -9,7 +9,7 @@ User & Password vs Access Key ID  \ & Secret Key. \
 Policy, deny vs allow, deny overrides allow in the same permission. \
 Password policy \
 Minium permission principle \
-IAM user vs Federated user \
+IAM user vs Federated user 
 
 Best Practice of IAM: \
 1 Don't use IAM to do the regular work. \
